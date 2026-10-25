@@ -42,7 +42,7 @@ Omni Chat is a privacy-first, open-source AI chat workspace that connects every 
 | **⌨️ Keyboard Shortcuts** | `Enter` to send, `Shift+Enter` for newline, `Esc` to close menus. |
 | **🎨 Polished UI** | Glassmorphic design with micro-animations, gradient accents, and responsive layout. |
 
-## 🌐 Supported Providers
+##  Supported Providers
 
 | Provider | Base URL | Latest Models (October 2026) | Vision |
 | :--- | :--- | :--- | :---: |

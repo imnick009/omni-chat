@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 48">
+  <defs>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="48" y2="48">
+      <stop offset="0" stop-color="#4f46e5"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="12" fill="url(#g)"/>
+  <g transform="translate(24 24) scale(0.66) translate(-32 -34)">
+    <path d="M26 26 Q26 22 30 22 L46 22 Q50 22 50 26 L50 38 Q50 42 46 42 L34 42 L28 48 L28 42 Q26 42 26 38 Z" fill="#ffffff" opacity="0.7"/>
+    <path d="M18 18 Q18 14 22 14 L38 14 Q42 14 42 18 L42 30 Q42 34 38 34 L26 34 L20 40 L20 34 Q18 34 18 30 Z" fill="#ffffff"/>
+  </g>
+  <text x="60" y="31" font-family="Inter, system-ui, sans-serif" font-size="21" font-weight="800" fill="#111827">Omni Chat</text>
+</svg>

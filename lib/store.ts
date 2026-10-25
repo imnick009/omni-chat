@@ -164,7 +164,7 @@ export const useStore = create<State>()(
         })),
     }),
     {
-      name: 'ai-chat-v5',
+      name: 'omni-chat-storage',
       storage: createJSONStorage(() => localStorage),
       partialize: (s) => ({
         chats: s.chats,
@@ -174,6 +174,7 @@ export const useStore = create<State>()(
         appName: s.appName,
         providerId: s.providerId,
         model: s.model,
+        apiKeys: s.apiKeys,
         models: s.models,
       }),
       onRehydrateStorage: () => (state) => {
